@@ -1,0 +1,5 @@
+{
+  "name": "AdGenius Admin",
+  "description": "An AI-powered advertisement management dashboard allows admins to create, generate, and manage ads using Gemini.",
+  "requestFramePermissions": []
+}
